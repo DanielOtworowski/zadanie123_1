@@ -2,5 +2,5 @@
 
 void main(void)
 {
-    printf("Hello world! \nDaniel Otworowski");
+    printf("Hello world! \nDaniel Otworowski \nJakub Gorecki");
 }
